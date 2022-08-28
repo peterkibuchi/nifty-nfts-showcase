@@ -56,12 +56,12 @@ code {
 }
 
 .fadeLeftMini {
-  animation: fadeLeftMini 1s;
+  animation: fadeLeftMini 1.5s;
   animation-fill-mode: both;
 }
 
 .fadeRightMini {
-  animation: fadeRightMini 1s;
+  animation: fadeRightMini 1.5s;
   animation-fill-mode: both;
 }
 
