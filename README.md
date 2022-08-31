@@ -1,6 +1,6 @@
 # Safari
 
-> The showcase page for my [Nifty NFTs app](https://peterkibuchi.github.io/nifty-nfts).
+> The showcase page for my [Nifty NFTs app](https://github.com/peterkibuchi/nifty-nfts).
 > Live demo [_here_](https://peterkibuchi.github.io/nifty-nfts-showcase/).
 
 ![App Showcase](./showcase.png)
